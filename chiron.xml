@@ -2,9 +2,9 @@
 <manifest>
     <remote name="github" fetch="https://github.com/" />
  <!-- Devices Trees -->
-    <project name="massivehard2014/device_xiaomi_chiron" path="device/xiaomi/chiron" remote="github" revision="pie"/>
-    <project name="massivehard2014/device_xiaomi_msm8998-common" path="device/xiaomi/msm8998-common" remote="github" revision="pie"/>
-    <project name="massivehard2014/vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="pie"/>
+    <project name="massivehard2014/android_device_xiaomi_chiron" path="device/xiaomi/chiron" remote="github" revision="pie"/>
+    <project name="massivehard2014/android_device_xiaomi_msm8998-common" path="device/xiaomi/msm8998-common" remote="github" revision="pie"/>
+    <project name="massivehard2014/android_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="pie"/>
     <project name="massivehard2014/andorid_kernel_xiaomi_chiron" path="kernel/xiaomi/chiron" remote="github" revision="pie-placeholder"/>
     <project name="massivehard2014/android_kernel_xiaomi_msm8998" path="kernel/xiaomi/msm8998" remote="github" revision="lineage-16.0"/>
 </manifest>
